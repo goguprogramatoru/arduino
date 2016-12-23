@@ -10,8 +10,7 @@ In this example I use both types of sensors (with 3 and 4 pins)
 The first one (4 pins) it's connected to pin 7 on arduino  
 The second one (3 pins) it's connected to pin 8  
 
-![GitHub Logo](/pics/schema.jpg)
-Format: ![Alt Text](url)
+![alt tag](https://github.com/goguprogramatoru/arduino/blob/master/DHT11_humidity_temperature/pics/schema.jpg)
 
-![GitHub Logo](/pics/sensors.jpg)
-Format: ![Alt Text](url)
+![alt tag](https://github.com/goguprogramatoru/arduino/blob/master/DHT11_humidity_temperature/pics/sensors.jpg)
+
