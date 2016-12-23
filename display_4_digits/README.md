@@ -1,12 +1,6 @@
 #USED FOR DISPLAYING NUMBERS ON 4 DIGITS DISPLAY  
   
 A digit can have 7 lines. Lines (A-G)  
-  -       A  
- | |     F B  
-  -       G  
- | |     E C  
-  -       D  
-  
 For the 4 digit display:  
 PIN LAYOUT:   
 
