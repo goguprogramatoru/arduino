@@ -1,4 +1,4 @@
-#USED FOR DISPLAYING NUMBERS ON 4 DIGITS DISPLAY  
+#4 DIGIT, 7 SEGMENTS DISPLAY
   
 A digit can have 7 lines. Lines (A-G)  
 For the 4 digit display:  
