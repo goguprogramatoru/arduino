@@ -16,3 +16,6 @@ Libs used: DHTLib https://github.com/RobTillaart/Arduino/tree/master/libraries/D
 
 ![alt tag](https://github.com/goguprogramatoru/arduino/blob/master/DHT11_humidity_temperature/pics/sensors.jpg)
 
+Other notes:  
+The sensors show the same temperature, but the humidity values are different (big diff).  
+I'm gonna order some DHT22 and see how they compare.
