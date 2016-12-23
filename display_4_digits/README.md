@@ -31,4 +31,4 @@ ARDUINO GROUND | ARDUINO PIN 5 | DISPLAY PIN 8                   | 3
 NOT USED IN THIS EXAMPLE:   
 ARDUINO GROUND | ARDUINO PIN 4 | CAN BE PLUGGED ON DISPLAY PIN 6 | 4  
 
-![alt tag](https://github.com/goguprogramatoru/arduino/blob/master/display_4_digits/pics/schema.png)
+![alt tag](https://github.com/goguprogramatoru/arduino/blob/master/display_4_digits/pics/schema.jpg)
