@@ -17,8 +17,7 @@ you display digit 1 for 1ms, digit 2 for 1 ms, and so on...
 the human eye will be tricked and think that all the digits are active at once.   
 
 To turn on/off the digits, we will use some NPN transistors:   
-NPN COLLECTOR  | NPN BASE      | NPN EMITTER                     | DIGIT (LEFT TO RIGHT)  
-----------------------------------------------------------------------------------------  
+NPN COLLECTOR  | NPN BASE      | NPN EMITTER                     | DIGIT (LEFT TO RIGHT)   
 ARDUINO GROUND | ARDUINO PIN 7 | DISPLAY PIN 12                  | 1  
 ARDUINO GROUND | ARDUINO PIN 6 | DISPLAY PIN 9                   | 2  
 ARDUINO GROUND | ARDUINO PIN 5 | DISPLAY PIN 8                   | 3  
