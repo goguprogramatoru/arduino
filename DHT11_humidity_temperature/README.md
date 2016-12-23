@@ -4,6 +4,7 @@ Looking from the front (grill part) of the sensor, from left to right:
  * data, vcc 5v, ground  
 * For the 4 pins:  
  * vcc 5v, data, nothing, ground  
+
 No resistance was used.  
 In this example I use both types of sensors (with 3 and 4 pins)  
 The first one (4 pins) it's connected to pin 7 on arduino  
